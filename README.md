@@ -2,5 +2,5 @@
 
 <div align ="center">
   <img style="height: 180px" src="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&count_private=true&show_icons=true&theme=gotham" alt="Github stats">
-  <img style="height: 180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=gotham" alt="">
+  <img style="height: 180px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham" alt="top-langs">
 </div>
