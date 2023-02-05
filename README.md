@@ -1,28 +1,28 @@
 <h1> Hello! I'm Edson</h1>
 
 <div align ="center">
-  <picture style="height: 150px">
-<source 
+  <picture>
+<source  style="height: 150px"
   srcset="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&count_private=true&show_icons=true&theme=gotham"
   media="(prefers-color-scheme: dark)"
 />
-<source
+<source  style="height: 150px"
   srcset="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&show_icons=true"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&show_icons=true" />
+<img  style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&show_icons=true" />
 </picture>
 
-<picture style="height: 150px">
-<source 
+<picture>
+<source style="height: 150px"
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham"
   media="(prefers-color-scheme: dark)"
 />
-<source
+<source style="height: 150px"
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham" />
+<img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham" />
 </picture>
   
   
