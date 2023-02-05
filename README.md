@@ -3,25 +3,25 @@
 <picture >
   <source 
     srcset="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&show_icons=true&theme=gotham"
-    media="(prefers-color-scheme: dark)" height= "180px"
+    media="(prefers-color-scheme: dark)" height= "150px"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&show_icons=true&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height= "180px"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height= "150px"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&show_icons=true&theme=vue" height= "180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&show_icons=true&theme=vue" height= "150px"/>
 </picture>
 
 <picture >
   <source 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham"
-    media="(prefers-color-scheme: dark)" height= "180px"
+    media="(prefers-color-scheme: dark)" height= "150px"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=vue"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height= "180px"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" height= "150px"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=vue" height= "180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=vue" height= "150px"/>
 </picture>
 
 
