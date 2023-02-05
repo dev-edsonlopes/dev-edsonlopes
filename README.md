@@ -1,8 +1,31 @@
 <h1> Hello! I'm Edson</h1>
 
 <div align ="center">
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&count_private=true&show_icons=true&theme=gotham" alt="Github stats">
-  <img style="height: 150px"src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham" alt="top-langs">
+  <picture style="height: 150px">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&count_private=true&show_icons=true&theme=gotham"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=dev-edsonlopes&show_icons=true" />
+</picture>
+
+<picture style="height: 150px">
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-edsonlopes&layout=compact&theme=gotham" />
+</picture>
+  
+  
 </div>
 
 <h2>Programming Language</h2>
